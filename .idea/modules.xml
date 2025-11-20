@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arquitetura-de-Sistemas.iml" filepath="$PROJECT_DIR$/Arquitetura-de-Sistemas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP2/SRP2.iml" filepath="$PROJECT_DIR$/SRP2/SRP2.iml" />
     </modules>
   </component>
 </project>
