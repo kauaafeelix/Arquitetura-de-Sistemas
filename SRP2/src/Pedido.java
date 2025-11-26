@@ -1,3 +1,11 @@
+/**
+ * @author Kauã Felix da Silva Costa
+ * @version 2.0
+ * <br>
+ * <p><strong>Pedido</strong> classe que representa os atributos de um Pedido</p>
+ * @since 2025-11-26
+ */
+
 // 1. Entidade de Dados: `Pedido`
 //Permanece quase inalterada, focada apenas em dados.
 public class Pedido {
@@ -16,7 +24,6 @@ public class Pedido {
         this.emailCliente = emailCliente;
         this.valorFinal = valorBruto; // Inicializa com o valor bruto
     }
-    // Getters e Setters
 
     public void setId(String id) {
         this.id = id;
