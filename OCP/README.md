@@ -77,9 +77,11 @@ src/com/ocp/
 
 ```bash
 cd src
-javac com/ocp/main/Aplicacao.java
+javac com/ocp/domain/model/*.java com/ocp/domain/model/enuns/*.java com/ocp/domain/ports/*.java com/ocp/infra/*.java com/ocp/main/*.java
 java com.ocp.main.Aplicacao
 ```
+
+Ou, alternativamente, compile usando a IDE IntelliJ IDEA.
 
 ## 📤 Saída Esperada
 
