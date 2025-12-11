@@ -17,7 +17,8 @@ SOLID é um acrônimo que representa cinco princípios fundamentais da programa�
 ```
 ├── SRP/          # Exemplo 1 - Single Responsibility Principle (Funcionários)
 ├── SRP2/         # Exemplo 2 - Single Responsibility Principle (Pedidos)
-└── OCP/          # Open/Closed Principle (Sistema de Descontos)
+├── OCP/          # Open/Closed Principle (Sistema de Descontos)
+└── LSP/          # Liskov Substitution Principle (exemplos e notas)
 ```
 
 ## 📂 Diretórios
@@ -30,6 +31,9 @@ Sistema de processamento de pedidos com classes especializadas para validação 
 
 ### [OCP - Open/Closed Principle](./OCP/)
 Sistema de descontos utilizando o padrão Strategy, demonstrando como adicionar novos tipos de desconto sem modificar o código existente.
+
+### [LSP - Liskov Substitution Principle](./LSP/)
+Exemplos e exercícios que ilustram o Princípio da Substituição de Liskov — como projetar hierarquias de classes que permitam substituir instâncias das subclasses pelas superclasses sem quebrar o comportamento esperado.
 
 ## 🛠️ Tecnologias Utilizadas
 
